@@ -13,7 +13,7 @@ assignees: ''
 
  <!-- A short description of what the talk will be about. -->
 
- ### Your name
+ ### Your name (and pronouns)
 
 ### Location
 

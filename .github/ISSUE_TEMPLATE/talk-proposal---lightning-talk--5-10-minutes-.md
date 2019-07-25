@@ -9,22 +9,22 @@ assignees: ''
 
 ### Talk title
 
- ### Abstract 
+### Abstract 
 
- <!-- A short description of what the talk will be about. -->
+<!-- A short description of what the talk will be about. -->
 
- ### Your name (and pronouns)
+### Your name (and pronouns)
 
 ### Location
 
-<!-- Please mention both where you're based and where you'd like to speak. -->
+<!-- Please mention both where you're based and where you'd like to speak. If you need travel assistance, let us know here or ping one of the organizers on Discord. -->
 
- ### Contact Details
+### Contact Details
 
- <!-- We'll mostly use this issue for communication. But it might help to leave your Twitter, Github or e-mail. Let us know if we should a link to your Twitter account or website on our page. -->
+<!-- We'll mostly use this issue for communication. But it might help to leave your Twitter, Github or e-mail. Let us know if we should a link to your Twitter account or website on our page. -->
 
- ### Code of Conduct
+### Code of Conduct
 
- <!-- We expect all of our speakers to uphold our Code of Conduct, so please take a minute to read through it. -->
+<!-- We expect all of our speakers to uphold our Code of Conduct, so please take a minute to read through it. -->
 
- - [ ] I've read and agree to the [QueerJS Code of Conduct](https://queerjs.com/code-of-conduct)
+- [ ] I've read and agree to the [QueerJS Code of Conduct](https://queerjs.com/code-of-conduct)

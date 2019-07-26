@@ -20,6 +20,10 @@ At every event, we plan to have a mix of longer 20-25 minute talks and 5-10 minu
 
 We have a bunch of meetups being planned all over the globe :earth_americas: You can check the [QueerJS website](https://queerjs.com/) for a list of the upcoming (and past) meetups. 
 
+### What if the lineup for the location I want to speak at is full?
+
+It's very, very likely that if we host a QueerJS in a city, we'll do it again in the same city one day. So we'd still encourage you to [open an issue](https://github.com/queerjs/queerjs-talk-proposals/issues/new/choose) and propose your talk. That way, you'll be at the top of the list for the next edition!
+
 ### Can you pay for my flights?
 
 Actually, there's a good chance that we can. If you'd like to speak at an upcoming meetup and need travel assistance for any reason, please mention it in your talk proposal and we'll let you know if it's possible.

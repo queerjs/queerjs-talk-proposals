@@ -16,7 +16,7 @@ Anything you're passionate about, really. The talks don't have to be technical (
 
 ### How long should my talk be?
 
-At every event, we plan to have a mix of longer 20-25 minute talks and 5-10 minute lightning talks. So do whatever you feel most comfortable with! If you need longer time to present, please let us know so we can adjust the schedule or coordinate with the venue.
+At every event, we plan to have a mix of longer 20-25 minute talks and 5-10 minute lightning talks. So do whatever you feel most comfortable with! If you need more time to present, please let us know so we can adjust the schedule or coordinate with the venue.
 
 ### Where does QueerJS happen?
 

@@ -2,6 +2,8 @@
 
 First of all, thank you for thinking about submitting a talk to an upcoming QueerJS event. We're happy you're here :rainbow: 
 
+:link: https://queerjs.com/speak/
+
 ### How do I submit a talk?
 
 [Open an issue](https://github.com/queerjs/queerjs-talk-proposals/issues/new/choose) on this repo and use one our issue templates to guide you through your talk submission.

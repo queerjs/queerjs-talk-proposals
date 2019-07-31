@@ -6,7 +6,7 @@ First of all, thank you for thinking about submitting a talk to an upcoming Quee
 
 ### How do I submit a talk?
 
-[Open an issue](https://github.com/queerjs/queerjs-talk-proposals/issues/new/choose) on this repo and use one our issue templates to guide you through your talk submission.
+[Open an issue](https://github.com/queerjs/queerjs-talk-proposals/issues/new/choose) on this repo and use one of our issue templates to guide you through your talk submission.
 
 If you need any help with this process because you are new to GitHub, git or speaking in general, ping one of the organizers on [Discord](https://discord.gg/jhMwNfK) or send us a message on [Twitter](https://twitter.com/QueerJS). Happy to help any way we can!
 
@@ -16,7 +16,7 @@ Anything you're passionate about, really. The talks don't have to be technical (
 
 ### How long should my talk be?
 
-At every event, we plan to have a mix of longer 20-25 minute talks and 5-10 minute lightning talks. So do whatever you feel most comfortable with! If you need longer to present, please let us know so we can adjust the schedule or coordinate with the venue.
+At every event, we plan to have a mix of longer 20-25 minute talks and 5-10 minute lightning talks. So do whatever you feel most comfortable with! If you need more time to present, please let us know so we can adjust the schedule or coordinate with the venue.
 
 ### Where does QueerJS happen?
 

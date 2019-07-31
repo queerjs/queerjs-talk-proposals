@@ -31,3 +31,7 @@ Actually, there's a good chance that we can if you're coming from a reasonable d
 ### What's the talk selection process?
 
 Talk slots are first come, first served (for the most part). After you open your issue, one of the organizers will reach out and let you know the next steps :tada:
+
+\
+\
+_Thank you [SeattleJS](https://github.com/seattlejs/) for the issue template inspiration!_

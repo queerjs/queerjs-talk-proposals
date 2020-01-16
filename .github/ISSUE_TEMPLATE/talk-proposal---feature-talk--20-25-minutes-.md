@@ -15,6 +15,10 @@ assignees: ''
 
 ### Your name (and pronouns)
 
+<!-- We want to be a safe, supportive space for people to make their speaking debut. That's why we're partnering with Global Diversity CFP Day and saving spots at future meetups specifically for first-time speakers. So if you attended one of the workshops and this will be your first talk, please let us know! -->
+
+- [ ] This will be my first tech talk
+
 ### Location
 
 <!-- Please mention both where you're based and where you'd like to speak. If you need travel assistance, let us know here or ping one of the organizers on Discord. -->

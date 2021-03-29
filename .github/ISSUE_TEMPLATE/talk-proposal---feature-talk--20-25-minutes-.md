@@ -25,7 +25,7 @@ assignees: ''
 
 ### Contact Details
 
-<!-- We'll mostly use this issue for communication. But it might help to leave your Twitter, Github or e-mail. Let us know if we should a link to your Twitter account or website on our page. -->
+<!-- We'll mostly use this issue for communication. But it might help to leave your Twitter, Github or Discord nickname (if you're in the QueerJS Discord.) Please note that this info will be public. -->
 
 ### Code of Conduct
 
